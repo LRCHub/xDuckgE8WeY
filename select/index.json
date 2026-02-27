@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "YOUTH",
+  "base_artist": "Troye Sivan",
+  "createdAt": "2026-02-27T15:56:41.741353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Is a Youth?",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/01_What_Is_a_Youth_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Is A Youth",
+      "artist": "手嶌葵",
+      "has_synced": false,
+      "path": "select/02_What_Is_A_Youth_手嶌葵.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wasted Youth",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/03_Wasted_Youth_Secret_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Youth Nabbed As Sniper",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/04_Youth_Nabbed_As_Sniper_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Colossal Youth",
+      "artist": "Young Marble Giants",
+      "has_synced": true,
+      "path": "select/05_Colossal_Youth_Young_Marble_Giants.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bathroom Gurgle (Tronik Youth Remix)",
+      "artist": "Late of the Pier",
+      "has_synced": false,
+      "path": "select/06_Bathroom_Gurgle_(Tronik_Youth_Remix)_Late_of_the_Pier.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Youth",
+      "artist": "Love and Rockets",
+      "has_synced": true,
+      "path": "select/07_Youth_Love_and_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Youth Knows No Pain",
+      "artist": "Lykke Li",
+      "has_synced": true,
+      "path": "select/08_Youth_Knows_No_Pain_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living Dead Youth",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/09_Living_Dead_Youth_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Raw Youth Collage",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/10_Raw_Youth_Collage_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Youth",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/11_The_Youth_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Youth Without Youth",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/12_Youth_Without_Youth_Metric.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Even In His Youth - Demo",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/13_Even_In_His_Youth_-_Demo_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Even In His Youth (Demo)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/14_Even_In_His_Youth_(Demo)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Testament To Youth In Verse",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/15_Testament_To_Youth_In_Verse_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nitro (Youth Energy)",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/16_Nitro_(Youth_Energy)_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Youth",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/17_Youth_Soft_Cell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOUTH",
+      "artist": "Troye Sivan",
+      "has_synced": false,
+      "path": "select/pl_01_YOUTH_Troye_Sivan.txt"
+    }
+  ]
+}
